@@ -2,7 +2,7 @@
 
 ## Overview
 
-Jalayaan is a versatile and fast algorithm for optimal ship routing, with a specific focus on the Indian Ocean region. This project was developed for the Smart India Hackathon (SIH) 2024.
+Jalayaan is a versatile and fast algorithm for optimal ship routing, with a specific focus on the Indian Ocean region. 
 
 The primary goal is to determine the most efficient and safest route for a vessel by simultaneously considering multiple, often competing, objectives. The algorithm is designed to be adaptable for a range of ship types and evolving weather conditions.
 
@@ -14,8 +14,8 @@ The primary goal is to determine the most efficient and safest route for a vesse
     * **Fuel Consumption:** Minimizing fuel usage to reduce operational costs and environmental impact.
     * **Voyage Time:** Ensuring the fastest possible transit.
     * **Safety/Risk:** Evaluating environmental factors to avoid conditions that could endanger the vessel, cargo, and crew.
-* **Indian Ocean Specific:** Tailored to address the unique maritime conditions and lack of specialized routing tools for the Indian Ocean.
-* **Hybrid Algorithmic Approach:** Combines multiple powerful optimization techniques to find a robust solution.
+* **Indian Ocean Specific:** Tailored to address the maritime conditions and lack of specialized routing tools for the Indian Ocean.
+* **Hybrid Algorithmic Approach:** Combines multiple optimization techniques to find a robust solution.
 * **Versatile & Adaptable:** Built with a scope to add more optimization parameters and handle various ship types and characteristics.
 
 ***
